@@ -10,7 +10,7 @@ This project explores vendor-wise sales performance using real-world sales data.
 ## 📂 Project Structure
 - `vendor_sales_summary_cleaned.csv` – Cleaned dataset
 - `vendor_analysis.ipynb` – Python analysis
-- `PowerBI_Screenshot` – Visuals from dashboard
+- `dashboard1` – Visuals from dashboard
 - `Final_Report.pdf` – Summary report
 
 ## 🛠️ Tech Stack
