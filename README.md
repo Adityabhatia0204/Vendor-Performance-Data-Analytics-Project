@@ -1,6 +1,6 @@
 # 📊 Vendor Performance Data Analytics
 
-This project explores vendor-wise sales performance using real-world sales data. Using Python (pandas, matplotlib) and Jupyter Notebook for preprocessing and visual insights, and Power BI for interactive reporting.
+This project explores vendor-wise sales performance using real-world sales data. Using Python (pandas, matplotlib) and Jupyter Notebook for preprocessing and visual insights, Power BI and interactive Reporting.
 
 ## 🔍 Key Features
 - Analyzed sales, purchase, and profit metrics by vendor and brand
