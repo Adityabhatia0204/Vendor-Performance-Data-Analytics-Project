@@ -11,7 +11,7 @@ This project explores vendor-wise sales performance using real-world sales data.
 - `vendor_sales_summary_cleaned.csv` – Cleaned dataset
 - `vendor_analysis.ipynb` – Python analysis
 - `dashboard1` – Visuals from dashboard
-- `Final_Report.pdf` – Summary report
+- `ADITYA_BHATIA_Vendor Performance Data Analytics` – Summary report
 
 ## 🛠️ Tech Stack
 - Python: pandas, numpy, matplotlib, seaborn
